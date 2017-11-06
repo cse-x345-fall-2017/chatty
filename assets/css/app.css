@@ -1,0 +1,19 @@
+/* This file is for your main application css. */
+
+body {
+ background: #f0f0f8 !important;
+}
+
+#chats {
+    background:  white;
+    border:      1px solid #cce;
+    color:       #229;
+    font-size:   2rem;
+    height:      50vh;
+    margin-left: 10%;
+    margin-top:  10%;
+    overflow:    auto;
+    padding:     2rem;
+    width:       80%;
+    letter-spacing: 0.1em;
+}
